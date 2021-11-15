@@ -1,0 +1,44 @@
+.main{
+    background-color: rgb(226, 213, 213);
+    height: 100vh;
+    margin-top: 0%;
+    width: 100%;
+}
+.inner{
+    width: 65%;
+    height: 50%;
+    background-color: rgb(158, 206, 187);
+    text-align: center;
+    margin-left: 15%;
+    border-radius: 23px;
+
+
+
+}
+#quotes{
+    font-size: 33px;
+    font-size: 33px;
+    text-align: center;
+    
+
+}
+#author{
+    font-size: 33px;
+    text-align: center;
+    font-size: 19px;
+    margin-top: 20px;
+
+}
+#newQ{
+    width: 240px;
+    border-radius: 22%;
+    height: 30px;
+    background-color: rgb(136, 106, 92);
+    color: white;
+    font-weight: 45px;
+    text-shadow: rgb(126, 78, 69);
+    font-size: 20px;
+    margin-top: 50px;
+    
+
+}
